@@ -16,3 +16,19 @@ c:\users\alex\documents\visual studio 2013\Projects\Inicial\Inicial\bin\System.W
 c:\users\alex\documents\visual studio 2013\Projects\Inicial\Inicial\obj\Debug\Inicial.csprojResolveAssemblyReference.cache
 c:\users\alex\documents\visual studio 2013\Projects\Inicial\Inicial\obj\Debug\Inicial.dll
 c:\users\alex\documents\visual studio 2013\Projects\Inicial\Inicial\obj\Debug\Inicial.pdb
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\Inicial.dll.config
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\Inicial.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\Inicial.pdb
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Helpers.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Razor.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Razor.xml
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.xml
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\bin\System.Web.Helpers.xml
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\obj\Debug\Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\obj\Debug\Inicial.dll
+C:\Users\Alex\Documents\Github\csharp-mvc5\trunk\Inicial\obj\Debug\Inicial.pdb
