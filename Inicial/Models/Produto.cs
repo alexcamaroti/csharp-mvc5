@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -15,6 +16,9 @@ namespace Inicial.Models
         private int? categoriaID;
         private int quantidade;
 
+
+
+        [Required]
         public int Quantidade
         {
             get { return quantidade; }
@@ -27,12 +31,15 @@ namespace Inicial.Models
             set { id = value; }
         }
 
+
+        [Required, StringLength(20)]
         public String Nome
         {
             get { return nome; }
             set { nome = value; }
         }
 
+        [Required, Range(0,10000)]
         public float Preco
         {
             get { return preco; }
